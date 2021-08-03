@@ -1,0 +1,13 @@
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\bin\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.exe
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\bin\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.deps.json
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\bin\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.runtimeconfig.json
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\bin\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.runtimeconfig.dev.json
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\bin\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.dll
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\bin\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.pdb
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\obj\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.csproj.AssemblyReference.cache
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\obj\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.AssemblyInfoInputs.cache
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\obj\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.AssemblyInfo.cs
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\obj\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.csproj.CoreCompileInputs.cache
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\obj\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.dll
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\obj\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.pdb
+C:\DevBuild\Week04\Lab4_2_ObjectPractice\obj\Debug\netcoreapp3.1\Lab4_2_ObjectPractice.genruntimeconfig.cache
